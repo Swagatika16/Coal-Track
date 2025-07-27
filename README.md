@@ -36,7 +36,6 @@ To get started with this project, follow these steps:
 2. Install the required dependencies:
 
    ```bash
-   cd coal-mine-visualization
    yarn install
    ```
 
