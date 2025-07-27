@@ -30,7 +30,7 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/ITER-SIH/Team-11.git coal-mine-visualization
+   git clone https://github.com/Swagatika16/Coal-Track
    ```
 
 2. Install the required dependencies:
